@@ -50,7 +50,7 @@ The app uses advanced text preprocessing, multilingual sentiment detection (via 
 ---
 ## 🌐 Live Demo
 
-You can explore the deployed app here:  
+You can explore the deployed app on Streamlit Cloud here:  
 👉 [https://greenmind-2qpzifdbbtavt5rna6uq7r.streamlit.app](https://greenmind-2qpzifdbbtavt5rna6uq7r.streamlit.app)
 
 ---
