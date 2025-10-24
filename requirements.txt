@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+torch
+nltk
+plotly
+wordcloud
+emoji
+unidecode
+reportlab

@@ -1,0 +1,1001 @@
+text,text_clean,sentiment_label,sent_pos,sent_neu,sent_neg
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Les jeunes militants pour le climat m’inspirent énormément.,les jeunes militants pour climat m'inspirent enormement,neutral,0.0,0.6589950323104858,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Recycling and reusing should be part of everyone’s daily life.,recycling reusing part everyone's daily life,neutral,0.0,0.8823431730270386,0.0
+Notre planète mérite mieux que la pollution et l’indifférence.,notre planete merite mieux que pollution l'indifference,neutral,0.0,0.6960092186927795,0.0
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+L’avenir sera vert ou ne sera pas.,l'avenir sera vert sera pas,neutral,0.0,0.7222114205360413,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+On ne peut plus ignorer la crise climatique.,peut plus ignorer crise climatique,neutral,0.0,0.748404324054718,0.0
+Sustainable agriculture is vital for food security.,sustainable agriculture vital food security,positive,0.5708701610565186,0.0,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+La transition énergétique doit être une priorité mondiale.,transition energetique doit etre une priorite mondiale,neutral,0.0,0.8800891041755676,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Global temperatures are rising faster than ever before.,global temperatures rising faster ever,neutral,0.0,0.5119275450706482,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+Join the #ClimateAction movement today and make a difference!,join climateaction movement today make difference,neutral,0.0,0.579033613204956,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+"The Earth doesn’t belong to us, we belong to the Earth.",earth belong belong earth,neutral,0.0,0.7055414915084839,0.0
+"I just started using a bike instead of a car, small change big impact!",started using bike instead car small change big impact,neutral,0.0,0.6958833336830139,0.0
+Clean water and clean air are basic human rights.,clean water clean air basic human rights,neutral,0.0,0.4739343822002411,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Il est temps de mettre fin aux subventions des combustibles fossiles.,est temps mettre fin aux subventions des combustibles fossiles,neutral,0.0,0.8176597952842712,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+We must act now to protect the environment for future generations.,must act protect environment future generations,neutral,0.0,0.681975781917572,0.0
+Les océans se réchauffent à une vitesse inquiétante.,les oceans rechauffent une vitesse inquietante,neutral,0.0,0.7519605159759521,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+Extreme weather is the price we pay for industrial pollution.,extreme weather price pay industrial pollution,negative,0.0,0.0,0.7269665002822876
+Les vagues de chaleur deviennent de plus en plus fréquentes.,les vagues chaleur deviennent plus plus frequentes,neutral,0.0,0.7300987243652344,0.0
+Renewable energy creates more opportunities than oil ever did.,renewable energy creates opportunities oil ever,positive,0.7717267274856567,0.0,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+"La pollution plastique détruit nos océans, agissons ensemble.",pollution plastique detruit nos oceans agissons ensemble,neutral,0.0,0.6243246793746948,0.0
+"Les forêts brûlent et les glaciers fondent, c’est alarmant.",les forets brulent les glaciers fondent c'est alarmant,neutral,0.0,0.7662295699119568,0.0
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+Il faut enseigner le développement durable dès l’école.,faut enseigner developpement durable des l'ecole,neutral,0.0,0.716234028339386,0.0
+L'énergie renouvelable est l'avenir de notre planète ! #Climat,lenergie renouvelable est lavenir notre planete climat,neutral,0.0,0.803146481513977,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Wildfires are becoming more frequent due to global warming.,wildfires becoming frequent due global warming,neutral,0.0,0.5088228583335876,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+"Protéger la biodiversité, c’est protéger notre avenir.",proteger biodiversite c'est proteger notre avenir,neutral,0.0,0.8404054641723633,0.0
+Companies should reduce packaging and stop using plastic bottles.,companies reduce packaging stop using plastic bottles,neutral,0.0,0.6809394955635071,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+"Plastic waste is destroying marine life, we need urgent action.",plastic waste destroying marine life need urgent action,negative,0.0,0.0,0.9023911356925964
+"Les promesses politiques ne suffisent plus, il faut agir maintenant.",les promesses politiques suffisent plus faut agir maintenant,neutral,0.0,0.7335012555122375,0.0
+Il faut agir maintenant avant qu’il ne soit trop tard pour la Terre.,faut agir maintenant avant qu'il soit trop tard pour terre,neutral,0.0,0.7143726348876953,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+L’énergie verte est la clé d’un avenir durable.,l'energie verte est cle d'un avenir durable,neutral,0.0,0.7829050421714783,0.0
+We must hold corporations accountable for environmental damage.,must hold corporations accountable environmental damage,negative,0.0,0.0,0.7229821085929871
+Je suis fier de soutenir une entreprise éco-responsable locale.,suis fier soutenir une entreprise ecoresponsable locale,neutral,0.0,0.8008237481117249,0.0
+Investing in green technology is investing in the future.,investing green technology investing future,positive,0.6257101893424988,0.0,0.0
+We can no longer ignore climate change — it’s already happening.,longer ignore climate change already happening,neutral,0.0,0.5818281769752502,0.0
+"Je viens d’acheter une voiture électrique, très content de mon choix !",viens d'acheter une voiture electrique tres content mon choix,neutral,0.0,0.8101096153259277,0.0
+Le gouvernement doit investir davantage dans les transports écologiques.,gouvernement doit investir davantage dans les transports ecologiques,neutral,0.0,0.7153792977333069,0.0
+Renewable energy is the future of our planet! #climatechange,renewable energy future planet climatechange,neutral,0.0,0.8154412508010864,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
+Wind and solar power can replace fossil fuels entirely.,wind solar power replace fossil fuels entirely,neutral,0.0,0.7885533571243286,0.0
+"Chaque petit geste compte : recycler, réutiliser, réduire.",chaque petit geste compte recycler reutiliser reduire,neutral,0.0,0.8263124823570251,0.0
+Switching to green jobs can strengthen our economy and planet.,switching green jobs strengthen economy planet,positive,0.800557017326355,0.0,0.0
+Public transport improvements are key to cutting CO2 emissions.,public transport improvements key cutting co2 emissions,neutral,0.0,0.6160910129547119,0.0
